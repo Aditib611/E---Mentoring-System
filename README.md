@@ -1,7 +1,7 @@
 ## Features
 
 ### For Mentees
--Profile Creation:** Build a detailed profile highlighting your skills, interests, and mentoring needs.
+
 - **Secure Login:** Register and login securely to access the platform.
 - **Mentor Matching:** Get matched with suitable mentors based on your profile and goals.
 - **Goal Setting:** Define and track your personal and professional development goals.
